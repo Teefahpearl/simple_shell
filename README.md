@@ -1,1 +1,1 @@
-simple_shell
+my simple_shell project
